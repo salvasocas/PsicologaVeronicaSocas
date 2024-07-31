@@ -11228,17 +11228,6 @@ p {
   font-weight: 100;
 }
 
-.section-heading-ul {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.section-heading-li {
-  width: 50%;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
 .bg-faded {
   background-color: #e9f6f5;
 }
