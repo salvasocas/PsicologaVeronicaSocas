@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psicologa-veronica-socas.onrender.com/sitemap.xml
